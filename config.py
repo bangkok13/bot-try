@@ -1,1 +1,1 @@
-TOKEN = 'ТУТ ТОКЕН ОН КАК ПАСПОРТ и ЧЕЛЕН, ПОКАЖУ ИЛИ МЕНТАМ, ИЛИ ВРАЧАМ'
+TOKEN = '1377794799:AAG8xFJpCJjLEmdnyub4KuU9QiefyacF2uM'
